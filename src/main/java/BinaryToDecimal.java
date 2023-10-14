@@ -4,13 +4,7 @@ import java.util.Scanner;
 //Almin Kadiric, 11933491
 
 public class BinaryToDecimal {
-    public static void main(String[] args) {
-        int[] binaryArray = {1, 0, 1, 0}; // This represents the binary number 1010
-
-
-
-
-    }
+   
 
 
 
