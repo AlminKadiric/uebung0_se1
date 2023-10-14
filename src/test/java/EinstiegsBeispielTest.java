@@ -1,6 +1,7 @@
 import org.junit.Assert;
 import org.junit.Test;
 
+
 public class EinstiegsBeispielTest {
 
 
@@ -35,9 +36,9 @@ public class EinstiegsBeispielTest {
     @Test
     public void testBinaryToDecimalFalse() {
         int[] binaryArray1 = {1, 0, 1, 0};
-        int expectedDecimal1 = 10;
+        int expectedDecimalOne = 10;
         int resultOne = BinaryToDecimal.binaryToDecimal(binaryArray1);
-        Assert.assertFalse(resultOne != expectedDecimal1);
+        Assert.assertFalse(resultOne != expectedDecimalOne);
 
     }
 
