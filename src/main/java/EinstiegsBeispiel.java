@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 //Almin Kadiric, 11933491
 
-public class BinaryToDecimal {
+public class EinstiegsBeispiel {
 
 
     public static int binaryToDecimal(int[] binaryArray) {
